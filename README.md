@@ -14,3 +14,7 @@
 
 ## SIDEBAR 개발
 - sidebar.md 추가 
+
+## search 개발
+- 검색 기능 추가
+
